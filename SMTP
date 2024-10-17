@@ -7,10 +7,10 @@ otp = random.randint(1111,9999)
 
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
-mailusername = "saivardhan@codegnan.com"
-mailpassword = "cjlo krse opxz zlzd"
+mailusername = "joelkruthiyeluvada59@gmail.com"
+mailpassword = "fstn lgim oyrh msyz"
 
-from_email = "saivardhan@codegnan.com"
+from_email = "joelkruthiyeluvada59@gmail.com"
 to_email = input("Enter Email Address: ")
 subject = "OTP For Validation"
 body = f"Otp for Validation is {otp}"
